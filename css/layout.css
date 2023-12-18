@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background-color: #130704;
+  background-color: #ecdfcf;
 }
 
 img {
@@ -85,7 +85,7 @@ img {
   .header-content h1 {
     font-family: "zen loop";
     font-size: 60px;
-    color: white;
+    color: black;
     letter-spacing: 4px;
     margin-top: 600px;
   }
@@ -290,7 +290,7 @@ img {
   .header-content h1 {
     font-family: "zen loop";
     font-size: 130px;
-    color: white;
+    color: black;
     letter-spacing: 4px;
     margin-top: 600px;
   }
@@ -332,11 +332,11 @@ img {
 
   .link {
     text-decoration: none;
-    color: #fff;
+    color: #130704;
   }
 
   .link:hover {
-    color: #fff;
+    color: #ecdfcf;
     text-decoration: underline;
   }
 
@@ -360,7 +360,7 @@ img {
   .fhero h1 {
     font-family: "zen loop";
     font-size: 130px;
-    color: white;
+    color: black;
     letter-spacing: 4px;
   }
 
