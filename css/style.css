@@ -444,8 +444,16 @@ img {
     object-fit: cover;
   }
 
+  .finsta img {
+    padding-top: 7px;
+  }
+
+  .ffacebook img {
+    padding-top: 7px;
+  }
+
   .flinkedin img {
-    width: 70px;
+    width: 75px;
     object-fit: cover;
   }
 
