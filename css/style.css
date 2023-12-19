@@ -57,6 +57,7 @@ img {
     text-align: center;
     font-family: "zen loop";
     font-size: 40px;
+    margin: 50px;
   }
 
   .fvoreshistorie p {
@@ -65,12 +66,14 @@ img {
   }
 
   .findblik {
+    gap: 150px;
+    margin-left: 130px;
+    margin-right: 130px;
     background-color: #f3e8db;
-    padding-top: 40px;
+    padding-top: 50px;
     padding-bottom: 100px;
     text-align: center;
     color: black;
-    gap: 180px;
   }
 
   .findblik h2 {
@@ -162,7 +165,7 @@ img {
     background-color: #130704;
     color: white;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 50px;
     padding-bottom: 30px;
     font-family: "crimson text";
   }
@@ -213,6 +216,7 @@ img {
 
   .ffooterinfo {
     padding-bottom: 20px;
+    padding-top: 0px;
   }
 
   .link:hover {
@@ -375,9 +379,11 @@ img {
   }
 
   .fvalues h3 {
+    margin: 50px;
     margin-bottom: 50px;
     font-family: "zen loop";
     font-size: 55px;
+    background-color: #93b2cf;
   }
 
   .fvalues p {
@@ -390,12 +396,12 @@ img {
 
   footer {
     background-color: #708090;
-    color: white;
+    color: black;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 50px;
     font-family: "crimson text";
     font-size: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
   }
 
   .ffootertop {
@@ -404,7 +410,7 @@ img {
   }
 
   .ffootermenu {
-    line-height: 42px;
+    line-height: 50px;
   }
 
   .flogo img {
@@ -425,11 +431,11 @@ img {
 
   .ffootersome {
     display: flex;
-    gap: 30px;
+    gap: 40px;
     justify-content: center;
     margin-top: 50px;
     margin-bottom: 50px;
-    margin-left: 20px;
+    margin-left: 0px;
   }
 
   .ffootersome img {
@@ -439,9 +445,10 @@ img {
 
   .ffootergrid3 {
     display: flex;
-    justify-content: left;
-    margin-left: 50px;
-    gap: 180px;
+    justify-content: center;
+    margin-left: 130px;
+    margin-right: 330px;
+    gap: 280px;
   }
 
   .ffootercopy {
