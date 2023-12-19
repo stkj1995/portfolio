@@ -110,7 +110,7 @@ img {
     font-family: "crimson text";
     font-size: 50px;
     text-decoration: none;
-    color: #28524b;
+    color: #87aeac;
   }
 
   .fctabutton:hover {
@@ -267,7 +267,7 @@ img {
   .fhero h1 {
     font-family: "zen loop";
     font-size: 130px;
-    color: white;
+    color: black;
     letter-spacing: 4px;
   }
 
@@ -323,7 +323,7 @@ img {
   }
 
   .fcta {
-    background-color: #87aeac;
+    background-color: #93b2cf;
     padding-top: 40px;
     padding-bottom: 80px;
     padding-left: 100px;
@@ -342,7 +342,7 @@ img {
     font-family: "crimson text";
     font-size: 60px;
     text-decoration: none;
-    color: #28524b;
+    color: black;
   }
 
   .fctabutton:hover {
@@ -389,7 +389,7 @@ img {
   /*FOOTER*/
 
   footer {
-    background-color: #130704;
+    background-color: #708090;
     color: white;
     text-align: center;
     padding-top: 40px;
