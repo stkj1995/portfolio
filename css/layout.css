@@ -416,9 +416,9 @@ img {
 
   .ffootergrid3 {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     margin-left: 50px;
-    gap: 280px;
+    gap: 180px;
   }
 
   .ffootercopy {
