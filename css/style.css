@@ -436,10 +436,16 @@ img {
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 0px;
+    padding-top: 30px;
   }
 
   .ffootersome img {
     width: 60px;
+    object-fit: cover;
+  }
+
+  .flinkedin img {
+    width: 70px;
     object-fit: cover;
   }
 
