@@ -6,11 +6,11 @@
 
 body {
   margin: 0;
-  background-color: #ecdfcf;
+  background-color: #9ddef3;
 }
 
 img {
-  width: 10%;
+  width: 15%;
   height: auto;
   display: block;
 }
@@ -31,8 +31,8 @@ img {
   }
 
   .fhero h1 {
-    font-family: "zen loop";
-    font-size: 80px;
+    font-family: "MinFantastiskeFont";
+    font-size: 50px;
     color: white;
     letter-spacing: 4px;
     text-align: center;
@@ -50,13 +50,13 @@ img {
     padding-bottom: 40px;
     padding-left: 70px;
     padding-right: 70px;
-    color: black;
+    color: #103757;
   }
 
   .fvoreshistorie h2 {
     margin-bottom: 30px;
     text-align: center;
-    font-family: "zen loop";
+    font-family: "MinFantastiskeFont";
     font-size: 40px;
     margin: 50px;
   }
@@ -75,12 +75,12 @@ img {
     padding-top: 50px;
     padding-bottom: 100px;
     text-align: center;
-    color: black;
+    color: #103757;
   }
 
   .findblik h2 {
     margin-bottom: 30px;
-    font-family: "zen loop";
+    font-family: "MinFantastiskeFont";
     font-size: 40px;
   }
 
@@ -96,26 +96,29 @@ img {
   }
 
   .fcta {
-    background-color: #93b2cf;
-    padding-top: 10px;
+    background-color: #9ddef3;
+    padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 50px;
     padding-right: 50px;
     text-align: center;
-    color: white;
+    color: #103757;
   }
 
   .fcta p {
     margin-bottom: 30px;
-    font-family: "zen loop";
-    font-size: 40px;
+    font-family: "crimson text";
+    font-size: 22px;
+    text-align: justify center;
+    padding: 3px;
+    margin: 20px;
   }
 
   .fctabutton {
-    font-family: "crimson text";
-    font-size: 50px;
+    font-family: "MinFantastiskeFont";
+    font-size: 40px;
     text-decoration: none;
-    color: #103757;
+    color: white;
   }
 
   .fctabutton:hover {
@@ -129,7 +132,7 @@ img {
     padding-left: 40px;
     padding-right: 40px;
     text-align: center;
-    color: black;
+    color: #103757;
   }
 
   .fvalues img {
@@ -146,7 +149,7 @@ img {
 
   .fvalues h3 {
     margin-bottom: 10px;
-    font-family: "zen loop";
+    font-family: "MinFantastiskeFont";
     font-size: 45px;
     color: #103757;
   }
@@ -167,13 +170,13 @@ img {
     background-color: #103757;
     color: white;
     text-align: center;
-    padding-top: 50px;
-    padding-bottom: 30px;
+    padding-top: 5px;
+    padding-bottom: 10px;
     font-family: "crimson text";
   }
 
   .ffootertop {
-    font-family: "zen loop";
+    font-family: "MinFantastiskeFont";
     font-size: 30px;
   }
 
@@ -200,10 +203,15 @@ img {
 
   .ffootersome {
     display: flex;
-    gap: 30px;
+    gap: 24px;
     justify-content: center;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 77px;
+    margin-bottom: 70px;
+    margin-right: 38px;
+    padding-top: 32px;
+    background-color: white;
+    border-radius: 0%;
+    aspect-ratio: 10;
   }
 
   .ffootersome img {
@@ -272,15 +280,16 @@ img {
   }
 
   .fhero h1 {
-    font-family: "zen loop";
-    font-size: 130px;
+    font-family: "MinFantastiskeFont";
+    font-size: 100px;
     color: white;
     letter-spacing: 4px;
     padding-right: 150px;
+    text-align: center;
   }
 
   .fvoreshistorie {
-    background-color: #130704;
+    background-color: #103757;
     padding-top: 50px;
     padding-bottom: 60px;
     padding-left: 100px;
@@ -291,7 +300,7 @@ img {
   .fvoreshistorie h2 {
     margin-bottom: 40px;
     text-align: center;
-    font-family: "zen loop";
+    font-family: "MinFantastiskeFont";
     font-size: 70px;
   }
 
@@ -315,7 +324,7 @@ img {
 
   .findblik h2 {
     margin-bottom: 60px;
-    font-family: "zen loop";
+    font-family: "MinFantastiskeFont";
     font-size: 70px;
   }
 
@@ -331,26 +340,28 @@ img {
   }
 
   .fcta {
-    background-color: #93b2cf;
+    background-color: #9ddef3;
     padding-top: 40px;
     padding-bottom: 80px;
     padding-left: 100px;
     padding-right: 100px;
-    text-align: center;
-    color: white;
+    text-align: justify;
+    color: #103757;
+    padding: 100px;
   }
 
   .fcta p {
-    margin-bottom: 70px;
-    font-family: "zen loop";
-    font-size: 64px;
+    margin-bottom: 60px;
+    font-family: "crimson text";
+    font-size: 35px;
   }
 
   .fctabutton {
-    font-family: "crimson text";
+    /* font-family: "MinFantatiskeFont"; */
     font-size: 60px;
     text-decoration: none;
-    color: #103757;
+    color: white;
+    text-align: center;
   }
 
   .fctabutton:hover {
@@ -385,7 +396,7 @@ img {
   .fvalues h3 {
     margin: 50px;
     margin-bottom: 50px;
-    font-family: "zen loop";
+    font-family: "MinFantastiskeFont";
     font-size: 55px;
     background-color: #93b2cf;
   }
@@ -399,8 +410,8 @@ img {
   /*FOOTER*/
 
   footer {
-    background-color: #708090;
-    color: black;
+    background-color: #103757;
+    color: white;
     text-align: center;
     padding-top: 50px;
     font-family: "crimson text";
@@ -409,7 +420,7 @@ img {
   }
 
   .ffootertop {
-    font-family: "zen loop";
+    font-family: "MinFantastiskeFont";
     font-size: 40px;
   }
 
@@ -438,65 +449,70 @@ img {
     display: flex;
     gap: 40px;
     justify-content: center;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 110px;
+    margin-bottom: 80px;
     margin-left: 0px;
     padding-top: 30px;
+    background-color: white;
+    border-radius: 0%;
+    aspect-ratio: 12;
   }
+}
 
-  .ffootersome img {
-    width: 60px;
-    object-fit: cover;
-  }
+.ffootersome img {
+  width: 60px;
+  object-fit: cover;
+}
 
-  .finsta img {
-    padding-top: 0px;
-    width: 80px;
-  }
+.finsta img {
+  padding-top: 0px;
+  width: 80px;
+}
 
-  .ffacebook img {
-    padding-top: 9px;
-  }
+.ffacebook img {
+  padding-top: 9px;
+  padding-top: 10px;
+  margin-left: 13px;
+}
 
-  .flinkedin img {
-    width: 75px;
-    object-fit: cover;
-    padding-top: 2px;
-  }
+.flinkedin img {
+  width: 75px;
+  object-fit: cover;
+  padding-top: 2px;
+}
 
-  .ffootergrid3 {
-    display: flex;
-    justify-content: center;
-    margin-left: 130px;
-    margin-right: 330px;
-    gap: 300px;
-  }
+.ffootergrid3 {
+  display: flex;
+  justify-content: center;
+  margin-left: 130px;
+  margin-right: 330px;
+  gap: 300px;
+}
 
-  .ffootercopy {
-    font-size: 15px;
-    margin-top: 30px;
-  }
+.ffootercopy {
+  font-size: 15px;
+  margin-top: 30px;
+}
 
-  #scrollToTopBtn {
-    display: none;
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    z-index: 99;
-    border: none;
-    outline: none;
-    background-color: transparent;
-    color: white;
-    cursor: pointer;
-    padding: 10px;
-  }
+#scrollToTopBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+}
 
-  .arrow-up {
-    border: solid white;
-    border-width: 0 3px 3px 0;
-    display: inline-block;
-    padding: 10px;
-    transform: rotate(-135deg);
-    -webkit-transform: rotate(-135deg);
-  }
+.arrow-up {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 10px;
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
 }
