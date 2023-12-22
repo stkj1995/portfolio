@@ -32,7 +32,7 @@ img {
 
   .fhero h1 {
     font-family: "MinFantastiskeFont";
-    font-size: 50px;
+    font-size: 60px;
     color: white;
     letter-spacing: 4px;
     text-align: center;
@@ -40,9 +40,9 @@ img {
   }
 
   .fhero img {
-    height: 320px;
+    height: auto;
     object-fit: cover;
-    width: 500px;
+    width: 100%;
   }
 
   .fvoreshistorie {
@@ -91,8 +91,9 @@ img {
     aspect-ratio: 16 / 9;
   }
 
-  .ffacade img {
-    height: 300px;
+  .ffacade .fmitcv img {
+    width: 105%;
+    height: auto;
     object-fit: cover;
   }
 
@@ -116,6 +117,28 @@ img {
     padding-top: 40px;
   }
 
+  .fintroduktion h2 {
+    margin-bottom: 30px;
+    font-family: "MinFantastiskeFont";
+    font-size: 22px;
+    text-align: center;
+    padding: 3px;
+    margin: 20px;
+    padding-top: 40px;
+    color: white;
+  }
+
+  .fintroduktion p {
+    margin-bottom: 30px;
+    font-family: "crimson text";
+    font-size: 22px;
+    text-align: center;
+    padding: 3px;
+    margin: 20px;
+    padding-top: 40px;
+    color: #103757;
+  }
+
   .fctabutton {
     font-family: "MinFantastiskeFont";
     font-size: 40px;
@@ -136,6 +159,7 @@ img {
     padding-right: 40px;
     text-align: center;
     color: #103757;
+    margin-bottom: 30px;
   }
 
   .fvalues img {
@@ -155,6 +179,7 @@ img {
     font-family: "MinFantastiskeFont";
     font-size: 45px;
     color: #103757;
+    margin-bottom: 40px;
   }
 
   .fvalues p {
@@ -165,6 +190,7 @@ img {
     display: block;
     margin: 0 auto;
     margin-bottom: 70px;
+    margin-top: 50px;
   }
 
   /*FOOTER*/
@@ -279,7 +305,7 @@ img {
 
   .fhero img {
     height: 560px;
-    width: 1700px;
+    width: 1650px;
     object-fit: cover;
   }
 
@@ -338,8 +364,9 @@ img {
     aspect-ratio: 16 / 9;
   }
 
-  .ffacade img {
-    height: 500px;
+  .ffacade .fmitcv img {
+    width: 80%;
+    height: auto;
     object-fit: cover;
   }
 
@@ -364,6 +391,28 @@ img {
     padding-top: 40px;
   }
 
+  .fintroduktion h2 {
+    margin-bottom: 30px;
+    font-family: "MinFantastiskeFont";
+    font-size: 40px;
+    text-align: center;
+    padding: 3px;
+    margin: 20px;
+    padding-top: 0px;
+    color: white;
+  }
+
+  .fintroduktion p {
+    margin-bottom: 30px;
+    font-family: "crimson text";
+    font-size: 22px;
+    text-align: left;
+    padding: 3px;
+    margin: 20px;
+    padding-top: 40px;
+    color: #103757;
+  }
+
   .fctabutton {
     /* font-family: "MinFantatiskeFont"; */
     font-size: 60px;
@@ -377,6 +426,7 @@ img {
     border: 5px solid white;
     padding: 20px;
     margin-bottom: 20px;
+    margin-top: 80px;
   }
 
   .fctaborder2 {
@@ -392,7 +442,7 @@ img {
     justify-content: center;
     gap: 50px;
     background-color: #9ddef3;
-    padding-top: 30px;
+    padding-top: 0px;
     padding-bottom: 80px;
     padding-left: 60px;
     padding-right: 60px;
@@ -422,8 +472,10 @@ img {
 
   .fvalues p {
     font-family: "crimson text";
-    font-size: 20px;
+    font-size: 25px;
     max-width: 500px;
+    text-align: center;
+    margin-left: 0px;
   }
 
   /*FOOTER*/
