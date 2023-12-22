@@ -109,9 +109,10 @@ img {
     margin-bottom: 30px;
     font-family: "crimson text";
     font-size: 22px;
-    text-align: justify center;
+    text-align: center;
     padding: 3px;
     margin: 20px;
+    padding-top: 40px;
   }
 
   .fctabutton {
@@ -119,6 +120,7 @@ img {
     font-size: 40px;
     text-decoration: none;
     color: white;
+    text-align: center;
   }
 
   .fctabutton:hover {
@@ -126,7 +128,7 @@ img {
   }
 
   .fvalues {
-    background-color: #ecdfcf;
+    /* background-color: #ecdfcf; */
     padding-top: 70px;
     padding-bottom: 30px;
     padding-left: 40px;
@@ -171,8 +173,8 @@ img {
     color: white;
     text-align: center;
     padding-top: 5px;
-    padding-bottom: 10px;
-    font-family: "crimson text";
+    padding-bottom: 0px;
+    font-family: "MinFantastiskeFont";
   }
 
   .ffootertop {
@@ -192,7 +194,7 @@ img {
 
   footer a {
     text-decoration: none;
-    font-family: "crimson text";
+    font-family: "MinFantastiskeFont";
     font-size: 18px;
     color: white;
   }
@@ -230,7 +232,7 @@ img {
   }
 
   .link:hover {
-    color: #fff;
+    color: white;
     text-decoration: underline;
   }
 
@@ -250,7 +252,7 @@ img {
 
   .arrow-up {
     border: solid white;
-    border-width: 0 3px 3px 0;
+    border-width: 0 5px 5px 0;
     display: inline-block;
     padding: 6px;
     transform: rotate(-135deg);
@@ -283,9 +285,9 @@ img {
     font-family: "MinFantastiskeFont";
     font-size: 100px;
     color: white;
-    letter-spacing: 4px;
-    padding-right: 150px;
-    text-align: center;
+    letter-spacing: 6px;
+    padding-right: 0px;
+    /* text-align: center; */
   }
 
   .fvoreshistorie {
@@ -345,15 +347,19 @@ img {
     padding-bottom: 80px;
     padding-left: 100px;
     padding-right: 100px;
-    text-align: justify;
+    text-align: left;
     color: #103757;
     padding: 100px;
   }
 
   .fcta p {
-    margin-bottom: 60px;
+    margin-bottom: 40px;
     font-family: "crimson text";
-    font-size: 35px;
+    font-size: 30px;
+    text-align: justify;
+    padding-left: 230px;
+    padding-right: 280px;
+    padding-top: 40px;
   }
 
   .fctabutton {
@@ -362,23 +368,34 @@ img {
     text-decoration: none;
     color: white;
     text-align: center;
+    padding-left: 200px;
+  }
+
+  .fctaborder {
+    border: 5px solid white;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .fctaborder2 {
+    border: 5px solid white;
   }
 
   .fctabutton:hover {
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   .fvalues {
     display: flex;
     justify-content: center;
     gap: 50px;
-    background-color: #ecdfcf;
+    background-color: #9ddef3;
     padding-top: 30px;
     padding-bottom: 80px;
     padding-left: 60px;
     padding-right: 60px;
     text-align: center;
-    color: black;
+    color: #103757;
   }
 
   .fvalues img {
@@ -398,7 +415,7 @@ img {
     margin-bottom: 50px;
     font-family: "MinFantastiskeFont";
     font-size: 55px;
-    background-color: #93b2cf;
+    background-color: #9ddef3;
   }
 
   .fvalues p {
@@ -414,7 +431,7 @@ img {
     color: white;
     text-align: center;
     padding-top: 50px;
-    font-family: "crimson text";
+    font-family: "MinFantastiskeFont";
     font-size: 20px;
     padding-bottom: 10px;
   }
@@ -437,7 +454,7 @@ img {
 
   footer a {
     text-decoration: none;
-    font-family: "crimson text";
+    font-family: "MinFantastiskeFont";
     color: white;
   }
 
@@ -490,8 +507,9 @@ img {
 }
 
 .ffootercopy {
-  font-size: 15px;
+  font-size: 20px;
   margin-top: 30px;
+  padding-bottom: 10px;
 }
 
 #scrollToTopBtn {
@@ -510,7 +528,7 @@ img {
 
 .arrow-up {
   border: solid white;
-  border-width: 0 3px 3px 0;
+  border-width: 0 5px 5px 0;
   display: inline-block;
   padding: 10px;
   transform: rotate(-135deg);
