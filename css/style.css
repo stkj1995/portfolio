@@ -285,7 +285,7 @@ img {
 
   .fhero h1 {
     font-family: "MinFantastiskeFont";
-    font-size: 90px;
+    font-size: 100px;
     color: white;
     letter-spacing: 6px;
     padding-right: 0px;
@@ -317,7 +317,7 @@ img {
   }
 
   .findblik {
-    background-color: #ecdfcf;
+    background-color: #9ddef3;
     padding-top: 20px;
     padding-bottom: 100px;
     padding-left: 100px;
