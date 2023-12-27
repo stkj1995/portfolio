@@ -449,6 +449,17 @@ img {
     padding-top: 30px;
   }
 
+  .fvalues .mig .beskrivelse {
+    margin-bottom: 50px;
+    margin-top: 80px;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 80px;
+    padding-right: 250px;
+    padding-top: 10px;
+    border: 100px solid #1e82a6;
+  }
+
   .fintroduktion h2 {
     margin-bottom: 30px;
     font-family: "MinFantastiskeFont";
