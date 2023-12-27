@@ -33,7 +33,7 @@ img {
 
   .fhero h1 {
     font-family: "MinFantastiskeFont";
-    font-size: 60px;
+    font-size: 50px;
     color: white;
     letter-spacing: 4px;
     text-align: center;
@@ -114,8 +114,8 @@ img {
     font-size: 22px;
     text-align: center;
     padding: 3px;
-    margin: 20px;
-    padding-top: 40px;
+    margin: 10px;
+    padding-top: 20px;
   }
 
   .fintroduktion h2 {
@@ -133,7 +133,47 @@ img {
     margin-bottom: 30px;
     font-family: "crimson text";
     font-size: 22px;
+    text-align: left;
+    padding: 3px;
+    margin: 20px;
+    padding-top: 40px;
+    color: #103757;
+  }
+
+  .col_1-1 h2 {
+    font-family: "MinFantastiskeFont";
+    font-size: 25px;
     text-align: center;
+    padding: 3px;
+    margin: 20px;
+    padding-top: 40px;
+    color: white;
+  }
+
+  .col_1-1 p {
+    font-family: "crimson text";
+    font-size: 22px;
+    text-align: left;
+    padding: 3px;
+    margin: 20px;
+    padding-top: 40px;
+    color: #103757;
+  }
+
+  .col_2-1 h2 {
+    font-family: "MinFantastiskeFont";
+    font-size: 25px;
+    text-align: center;
+    padding: 3px;
+    margin: 20px;
+    padding-top: 40px;
+    color: white;
+  }
+
+  .col_2-1 p {
+    font-family: "crimson text";
+    font-size: 22px;
+    text-align: left;
     padding: 3px;
     margin: 20px;
     padding-top: 40px;
@@ -153,7 +193,6 @@ img {
   }
 
   .fvalues {
-    /* background-color: #ecdfcf; */
     padding-top: 70px;
     padding-bottom: 30px;
     padding-left: 40px;
@@ -183,7 +222,7 @@ img {
     margin-bottom: 40px;
   }
 
-  .fvalues p {
+  .ftema p {
     font-family: "crimson text";
     font-size: 20px;
     max-width: 500px;
@@ -466,26 +505,22 @@ img {
     border-radius: 50%;
   }
 
-  .fvalues h3 {
+  .fvalues .fcta h3 {
     margin: 50px;
     margin-bottom: 50px;
     font-family: "MinFantastiskeFont";
     font-size: 55px;
     background-color: #9ddef3;
+    text-align: center;
   }
 
-  .fvalues p {
+  /* .fcta p {
     font-family: "crimson text";
-    font-size: 25px;
+    font-size: 22px;
     max-width: 500px;
     text-align: center;
     margin-left: 0px;
-  }
-
-  .ftema2 p {
-    text-align: center;
-    margin-left: 175px;
-  }
+  } */
 
   /*FOOTER*/
 
