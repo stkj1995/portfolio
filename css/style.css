@@ -202,6 +202,11 @@ img {
     margin-bottom: 30px;
   }
 
+  .fvalues p {
+    font-family: crimson text;
+    font-size: 20px;
+  }
+
   .fvalues img {
     width: 200px;
     height: 200px;
@@ -493,16 +498,9 @@ img {
     color: #103757;
   }
 
-  .fvalues img {
-    width: 350px;
-    height: 350px;
-    object-fit: cover;
-    display: block;
-    margin: 0 auto;
-  }
-
-  .rundt {
-    border-radius: 50%;
+  .fvalues p {
+    font-family: crimson text;
+    font-size: 25px;
   }
 
   .fvalues .fcta h3 {
@@ -514,13 +512,17 @@ img {
     text-align: center;
   }
 
-  /* .fcta p {
-    font-family: "crimson text";
-    font-size: 22px;
-    max-width: 500px;
-    text-align: center;
-    margin-left: 0px;
-  } */
+  .fvalues img {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .rundt {
+    border-radius: 50%;
+  }
 
   /*FOOTER*/
 
