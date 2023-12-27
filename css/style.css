@@ -33,7 +33,7 @@ img {
 
   .fhero h1 {
     font-family: "MinFantastiskeFont";
-    font-size: 30px;
+    font-size: 35px;
     color: white;
     letter-spacing: 4px;
     text-align: center;
@@ -41,7 +41,7 @@ img {
   }
 
   .fhero img {
-    height: 180px;
+    height: 210px;
     object-fit: cover;
     width: 100%;
   }
@@ -182,7 +182,7 @@ img {
 
   .fctabutton {
     font-family: "MinFantastiskeFont";
-    font-size: 25px;
+    font-size: 35px;
     text-decoration: none;
     color: white;
     text-align: center;
@@ -193,7 +193,7 @@ img {
   }
 
   .fvalues {
-    padding-top: 30px;
+    padding-top: 10px;
     padding-bottom: 30px;
     padding-left: 40px;
     padding-right: 40px;
@@ -240,11 +240,12 @@ img {
     font-family: "crimson text";
     font-size: 20px;
     max-width: 500px;
-    max-width: 250px;
+    max-width: 500px;
     display: block;
     margin: 0 auto;
-    margin-bottom: 70px;
-    margin-top: 50px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    text-align: left;
   }
 
   /*FOOTER*/
@@ -449,7 +450,7 @@ img {
     padding-right: 120px;
     padding-top: 20px;
     padding-bottom: 20px;
-    border: 22px solid #1e82a6;
+    border: 20px solid #1e82a6;
   }
 
   .fintroduktion h2 {
