@@ -100,10 +100,10 @@ img {
 
   .fcta {
     background-color: #9ddef3;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
     text-align: center;
     color: #103757;
   }
@@ -116,6 +116,15 @@ img {
     padding: 3px;
     margin: 10px;
     padding-top: 15px;
+  }
+
+  .fvalues .beskrivelse .tekst {
+    font-family: "MinFantastiskeFont";
+    margin-bottom: 20px;
+    font-size: 18px;
+    text-align: left;
+    padding: 50px;
+    border: 5px solid #1e82a6;
   }
 
   .fintroduktion h2 {
@@ -199,7 +208,7 @@ img {
     padding-right: 40px;
     text-align: center;
     color: #103757;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
 
   .fvalues p {
@@ -233,7 +242,7 @@ img {
     font-size: 30px;
     color: #103757;
     margin-bottom: 40px;
-    margin-top: 70px;
+    margin-top: 30px;
   }
 
   .fcta p {
