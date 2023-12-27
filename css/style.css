@@ -193,7 +193,7 @@ img {
   }
 
   .fvalues {
-    padding-top: 0px;
+    padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 40px;
     padding-right: 40px;
@@ -215,6 +215,7 @@ img {
     margin: 0 auto;
     margin-top: 40px;
     border-radius: 50%;
+    margin-bottom: 50px;
   }
 
   .ffacade .cv {
@@ -232,7 +233,7 @@ img {
     font-size: 30px;
     color: #103757;
     margin-bottom: 40px;
-    margin-top: 40px;
+    margin-top: 70px;
   }
 
   .fcta p {
@@ -359,7 +360,7 @@ img {
 
   .fhero img {
     height: 450px;
-    width: 1635px;
+    width: 1640px;
     object-fit: cover;
   }
 
@@ -446,8 +447,9 @@ img {
     text-align: left;
     padding-left: 120px;
     padding-right: 120px;
-    padding-top: 30px;
-    border: 60px solid #1e82a6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 22px solid #1e82a6;
   }
 
   .fintroduktion h2 {
@@ -487,7 +489,7 @@ img {
     border: 5px solid white;
     padding: 0px;
     margin-bottom: 95px;
-    margin-top: 0px;
+    margin-top: 15px;
   }
 
   .fctaborder h3 {
@@ -496,6 +498,7 @@ img {
 
   .fctaborder2 {
     border: 5px solid #1e82a6;
+    margin: 30px;
   }
 
   .fctabutton:hover {
@@ -507,7 +510,7 @@ img {
     justify-content: center;
     gap: 30px;
     background-color: #9ddef3;
-    padding-top: 130px;
+    padding-top: 75px;
     padding-bottom: 80px;
     padding-left: 60px;
     padding-right: 60px;
@@ -535,7 +538,8 @@ img {
     object-fit: cover;
     display: block;
     margin: 0 auto;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
+    margin-top: 38px;
   }
 
   .rundt {
