@@ -359,7 +359,7 @@ img {
 
   .fhero img {
     height: 450px;
-    width: 1650px;
+    width: 1640px;
     object-fit: cover;
   }
 
@@ -439,25 +439,15 @@ img {
     padding-top: 30px;
   }
 
-  .fvalues .mig p {
-    margin-bottom: 50px;
-    font-family: "crimson text";
-    font-size: px;
-    text-align: center;
-    padding-left: 250px;
-    padding-right: 250px;
-    padding-top: 30px;
-  }
-
-  .fvalues .mig .beskrivelse {
-    margin-bottom: 50px;
-    margin-top: 80px;
+  .fvalues .beskrivelse .tekst {
+    font-family: "MinFantastiskeFont";
+    margin-bottom: 27px;
     font-size: 20px;
     text-align: left;
-    padding-left: 80px;
-    padding-right: 250px;
-    padding-top: 10px;
-    border: 100px solid #1e82a6;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 30px;
+    border: 60px solid #1e82a6;
   }
 
   .fintroduktion h2 {
@@ -497,7 +487,7 @@ img {
     border: 5px solid white;
     padding: 0px;
     margin-bottom: 95px;
-    margin-top: 80px;
+    margin-top: 0px;
   }
 
   .fctaborder h3 {
@@ -515,9 +505,9 @@ img {
   .fvalues {
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 30px;
     background-color: #9ddef3;
-    padding-top: 40px;
+    padding-top: 130px;
     padding-bottom: 80px;
     padding-left: 60px;
     padding-right: 60px;
@@ -545,6 +535,7 @@ img {
     object-fit: cover;
     display: block;
     margin: 0 auto;
+    margin-bottom: 80px;
   }
 
   .rundt {
@@ -554,15 +545,8 @@ img {
   .ffacade .cv {
     width: 800px;
     height: 1000px;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
   }
-
-  /* .fctaborder .fcv {
-    width: 70%;
-    height: auto;
-    object-fit: cover;
-    padding-bottom: 50px;
-  } */
 
   /*FOOTER*/
 
