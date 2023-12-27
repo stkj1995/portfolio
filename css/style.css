@@ -100,7 +100,7 @@ img {
 
   .fcta {
     background-color: #9ddef3;
-    padding-top: 10px;
+    padding-top: 30px;
     padding-bottom: 10px;
     padding-left: 0px;
     padding-right: 0px;
@@ -195,6 +195,7 @@ img {
     text-decoration: none;
     color: white;
     text-align: center;
+    margin: 0px;
   }
 
   .fctabutton:hover {
@@ -228,12 +229,12 @@ img {
   }
 
   .ffacade .cv {
-    width: 400px;
+    width: 430px;
     height: auto;
     margin-bottom: 50px;
     object-fit: cover;
     display: block;
-    margin: 40px auto 0px;
+    margin: 20px auto 0px;
   }
 
   .fvalues h3 {
@@ -255,6 +256,8 @@ img {
     margin-bottom: 40px;
     margin-top: 40px;
     text-align: left;
+    padding-left: 30px;
+    padding-right: 30px;
   }
 
   /*FOOTER*/
