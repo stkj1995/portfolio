@@ -87,6 +87,7 @@ img {
   } */
 
 
+
   /* .ffacade .fmitcv img {
     width: 105%;
     height: auto;
@@ -421,6 +422,11 @@ img {
     font-size: 70px;
   }
 
+  video {
+    width: 1000px;
+    height: auto;
+    aspect-ratio: 16 / 9;
+  } */
 
   .fcta {
     background-color: #9ddef3;
