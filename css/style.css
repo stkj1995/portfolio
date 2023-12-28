@@ -186,10 +186,19 @@ img {
   .fctabutton {
     font-family: "MinFantastiskeFont";
     font-size: 35px;
-    text-decoration: none;
+    text-decoration: underline;
     color: white;
     text-align: center;
     margin: 0px;
+  }
+
+  .fctabutton2 {
+    font-family: "MinFantastiskeFont";
+    font-size: 20px;
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+    margin: 50px;
   }
 
   .fctabutton:hover {
@@ -220,6 +229,16 @@ img {
     margin-top: 40px;
     border-radius: 50%;
     margin-bottom: 50px;
+  }
+
+  .fvalues .studie {
+    width: 420px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
   }
 
   .ffacade .cv {
@@ -492,6 +511,15 @@ img {
     padding-left: 240px;
   }
 
+  .fctabutton2 {
+    font-family: "MinFantastiskeFont";
+    font-size: 40px;
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+    margin: 330px;
+  }
+
   .fctaborder {
     border: 5px solid white;
     padding: 0px;
@@ -517,8 +545,8 @@ img {
     justify-content: center;
     gap: 30px;
     background-color: #9ddef3;
-    padding-top: 75px;
-    padding-bottom: 80px;
+    padding-top: 0px;
+    padding-bottom: 30px;
     padding-left: 60px;
     padding-right: 60px;
     text-align: center;
@@ -551,6 +579,12 @@ img {
 
   .rundt {
     border-radius: 50%;
+  }
+
+  .fvalues .studie {
+    width: 500px;
+    height: auto;
+    object-fit: cover;
   }
 
   .ffacade .cv {
