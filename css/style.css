@@ -502,7 +502,7 @@ img {
     border: 5px solid white;
     padding: 0px;
     margin-bottom: 95px;
-    margin-top: 15px;
+    margin-top: 40px;
   }
 
   .fctaborder h3 {
@@ -510,7 +510,7 @@ img {
   }
 
   .fctaborder2 {
-    border: 5px solid #1e82a6;
+    border: 3px solid #1e82a6;
     margin: 30px;
   }
 
