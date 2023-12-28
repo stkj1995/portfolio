@@ -517,7 +517,10 @@ img {
     text-decoration: underline;
     color: white;
     text-align: center;
-    margin: 330px;
+    margin: 450px;
+    background-color: #1e82a6;
+    border: 3px solid white;
+    padding: 10px;
   }
 
   .fctaborder {
@@ -555,7 +558,7 @@ img {
 
   .fvalues p {
     font-family: crimson text;
-    font-size: 20px;
+    font-size: 25px;
   }
 
   .fvalues .fcta h3 {
