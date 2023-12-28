@@ -126,9 +126,9 @@ img {
     font-family: "MinFantastiskeFont";
     font-size: 25px;
     text-align: center;
-    padding: 3px;
+    padding: 0px;
     margin: 20px;
-    padding-top: 40px;
+    padding-top: 0px;
     color: white;
   }
 
@@ -138,7 +138,7 @@ img {
     font-size: 22px;
     text-align: left;
     padding: 3px;
-    margin: 20px;
+    margin: 40px;
     padding-top: 40px;
     color: #103757;
   }
@@ -199,6 +199,9 @@ img {
     color: white;
     text-align: center;
     margin: 50px;
+    background-color: #1e82a6;
+    border: 3px solid white;
+    padding: 5px;
   }
 
   .fctabutton:hover {
@@ -265,12 +268,12 @@ img {
     max-width: 500px;
     max-width: 500px;
     display: block;
-    margin: 0 auto;
-    margin-bottom: 40px;
-    margin-top: 40px;
+    margin: 40px;
+    margin-bottom: 0px;
+    margin-top: 50px;
     text-align: left;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
   }
 
   /*FOOTER*/
