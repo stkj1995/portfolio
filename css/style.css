@@ -464,8 +464,8 @@ img {
     font-family: "crimson text";
     font-size: 25px;
     text-align: justify;
-    padding-left: 250px;
-    padding-right: 250px;
+    padding-left: 350px;
+    padding-right: 350px;
     padding-top: 30px;
   }
 
@@ -501,8 +501,8 @@ img {
     margin: 20px;
     padding-top: 40px;
     color: #103757;
-    padding-left: 310px;
-    padding-right: 300px;
+    padding-left: 350px;
+    padding-right: 350px;
   }
 
   .fctabutton {
@@ -511,16 +511,16 @@ img {
     text-decoration: underline;
     color: white;
     text-align: center;
-    padding-left: 240px;
+    padding-left: 350px;
   }
 
   .fctabutton2 {
     font-family: "MinFantastiskeFont";
-    font-size: 40px;
+    font-size: 35px;
     text-decoration: underline;
     color: white;
     text-align: center;
-    margin: 420px;
+    margin: 370px;
     background-color: #1e82a6;
     border: 3px solid white;
     padding: 10px;
@@ -676,7 +676,7 @@ img {
 .ffootergrid3 {
   display: flex;
   justify-content: center;
-  margin-left: 370px;
+  margin-left: 380px;
   margin-right: 260px;
   gap: 300px;
 }
