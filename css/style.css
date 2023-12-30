@@ -275,6 +275,16 @@ img {
     margin-bottom: 30px;
   }
 
+  .fvalues .studie5 {
+    width: 430px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
   .ffacade .cv {
     width: 430px;
     height: auto;
@@ -646,6 +656,16 @@ img {
 
   .fvalues .studie4 {
     width: 100px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .fvalues .studie5 {
+    width: 1000px;
     height: auto;
     object-fit: cover;
     display: block;
