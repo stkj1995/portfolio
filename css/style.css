@@ -128,7 +128,7 @@ img {
     text-align: center;
     padding: 0px;
     margin: 20px;
-    padding-top: 0px;
+    padding-top: 20px;
     color: white;
   }
 
@@ -138,9 +138,10 @@ img {
     font-size: 22px;
     text-align: left;
     padding: 3px;
-    margin: 40px;
+    margin: 60px;
     padding-top: 40px;
     color: #103757;
+    margin-left: 50px;
   }
   /* 
   .col_1-1 h2 {
@@ -194,7 +195,7 @@ img {
 
   .fctabutton2 {
     font-family: "MinFantastiskeFont";
-    font-size: 20px;
+    font-size: 15px;
     text-decoration: underline;
     color: white;
     text-align: center;
@@ -209,8 +210,8 @@ img {
   }
 
   .fvalues {
-    padding-top: 10px;
-    padding-bottom: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     padding-left: 40px;
     padding-right: 40px;
     text-align: center;
@@ -236,6 +237,36 @@ img {
 
   .fvalues .studie {
     width: 420px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .fvalues .studie2 {
+    width: 150px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .fvalues .studie3 {
+    width: 130px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .fvalues .studie4 {
+    width: 80px;
     height: auto;
     object-fit: cover;
     display: block;
@@ -549,7 +580,7 @@ img {
   .fvalues {
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 50px;
     background-color: #9ddef3;
     padding-top: 0px;
     padding-bottom: 15px;
@@ -574,8 +605,8 @@ img {
   }
 
   .fvalues img {
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: auto;
     object-fit: cover;
     display: block;
     margin: 0 auto;
@@ -591,6 +622,36 @@ img {
     width: 500px;
     height: auto;
     object-fit: cover;
+  }
+
+  .fvalues .studie2 {
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .fvalues .studie3 {
+    width: 130px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .fvalues .studie4 {
+    width: 100px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
   }
 
   .ffacade .cv {
