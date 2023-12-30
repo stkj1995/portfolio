@@ -580,7 +580,7 @@ img {
   .fvalues {
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 30px;
     background-color: #9ddef3;
     padding-top: 0px;
     padding-bottom: 15px;
@@ -606,7 +606,7 @@ img {
 
   .fvalues img {
     width: 300px;
-    height: auto;
+    height: 300px;
     object-fit: cover;
     display: block;
     margin: 0 auto;
