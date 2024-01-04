@@ -46,52 +46,6 @@ img {
     width: 100%;
   }
 
-  /* .fvoreshistorie {
-    background-color: #ecdfcf;
-    padding-top: 30px;
-    padding-bottom: 40px;
-    padding-left: 70px;
-    padding-right: 70px;
-    color: #103757;
-  }
-
-  .fvoreshistorie h2 {
-    margin-bottom: 30px;
-    text-align: center;
-    font-family: "MinFantastiskeFont";
-    font-size: 40px;
-    margin: 50px;
-  }
-
-  .fvoreshistorie p {
-    font-family: "crimson text";
-    font-size: 15px;
-    padding-top: 30px;
-  } */
-
-  /* .findblik {
-    gap: 280px;
-    margin-left: 130px;
-    margin-right: 130px;
-    background-color: #ecdfcf;
-    padding-top: 50px;
-    padding-bottom: 100px;
-    text-align: center;
-    color: #103757;
-  } */
-
-  /* .findblik h2 {
-    margin-bottom: 30px;
-    font-family: "MinFantastiskeFont";
-    font-size: 40px;
-  } */
-
-  /* .ffacade .fmitcv img {
-    width: 105%;
-    height: auto;
-    object-fit: cover;
-  } */
-
   .fcta {
     background-color: #9ddef3;
     padding-top: 30px;
@@ -143,46 +97,6 @@ img {
     color: #103757;
     margin-left: 50px;
   }
-  /* 
-  .col_1-1 h2 {
-    font-family: "MinFantastiskeFont";
-    font-size: 25px;
-    text-align: center;
-    padding: 3px;
-    margin: 20px;
-    padding-top: 40px;
-    color: white;
-  }
-
-  .col_1-1 p {
-    font-family: "crimson text";
-    font-size: 22px;
-    text-align: left;
-    padding: 3px;
-    margin: 20px;
-    padding-top: 40px;
-    color: #103757;
-  }
-
-  .col_2-1 h2 {
-    font-family: "MinFantastiskeFont";
-    font-size: 25px;
-    text-align: center;
-    padding: 3px;
-    margin: 20px;
-    padding-top: 40px;
-    color: white;
-  }
-
-  .col_2-1 p {
-    font-family: "crimson text";
-    font-size: 22px;
-    text-align: left;
-    padding: 3px;
-    margin: 20px;
-    padding-top: 40px;
-    color: #103757;
-  } */
 
   .fctabutton {
     font-family: "MinFantastiskeFont";
@@ -453,52 +367,6 @@ img {
     text-align: center;
   }
 
-  /* .fvoreshistorie {
-    background-color: #103757;
-    padding-top: 50px;
-    padding-bottom: 60px;
-    padding-left: 100px;
-    padding-right: 100px;
-    color: white;
-  }
-
-  .fvoreshistorie h2 {
-    margin-bottom: 40px;
-    text-align: center;
-    font-family: "MinFantastiskeFont";
-    font-size: 70px;
-  }
-
-  .fvoreshistorie p {
-    font-family: "crimson text";
-    font-size: 20px;
-    max-width: 1100px;
-    text-align: center;
-    margin-left: 50px;
-  } */
-
-  /* .findblik {
-    background-color: #9ddef3;
-    padding-top: 20px;
-    padding-bottom: 100px;
-    padding-left: 100px;
-    padding-right: 100px;
-    text-align: center;
-    color: black;
-  }
-
-  .findblik h2 {
-    margin-bottom: 60px;
-    font-family: "MinFantastiskeFont";
-    font-size: 70px;
-  }
-
-  video {
-    width: 1000px;
-    height: auto;
-    aspect-ratio: 16 / 9;
-  } */
-
   .fcta {
     background-color: #9ddef3;
     padding-top: 40px;
@@ -557,7 +425,6 @@ img {
   }
 
   .fctabutton {
-    /* font-family: "MinFantatiskeFont"; */
     font-size: 60px;
     text-decoration: underline;
     color: white;
