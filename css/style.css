@@ -73,6 +73,7 @@ img {
     text-align: left;
     padding: 50px;
     border: 5px solid #1e82a6;
+    margin-top: 50px;
   }
 
   .fintroduktion h2 {
@@ -216,6 +217,16 @@ img {
     object-fit: cover;
     display: block;
     margin: 20px auto 0px;
+  }
+
+  .uddannelse,
+  .erfaring,
+  .kompetencer,
+  .profil {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
   }
 
   .fvalues h3 {
@@ -479,7 +490,7 @@ img {
 
   .fvalues p {
     font-family: crimson text;
-    font-size: 25px;
+    font-size: 22px;
   }
 
   .fvalues .fcta h3 {
@@ -571,12 +582,29 @@ img {
     font-size: 20px;
   }
 
+  .ffacade h2 {
+    text-align: center;
+  }
+
   .uddannelse,
   .erfaring,
-  .kompetencer {
+  .kompetencer,
+  .profil {
     background-color: #fff;
     padding: 20px;
     margin: 20px;
+    text-align: left;
+  }
+
+  .tekst li {
+    font-size: 15px;
+  }
+
+  .tekst h2 {
+    text-align: center;
+  }
+
+  .sprog {
     text-align: left;
   }
 
