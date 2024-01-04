@@ -567,6 +567,19 @@ img {
     margin-bottom: 0px;
   }
 
+  .ffacade p {
+    font-size: 20px;
+  }
+
+  .uddannelse,
+  .erfaring,
+  .kompetencer {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+  }
+
   /*FOOTER*/
 
   footer {
