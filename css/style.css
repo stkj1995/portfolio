@@ -229,6 +229,10 @@ img {
     text-align: left;
   }
 
+  .tekst h2 {
+    text-align: center;
+  }
+
   .fvalues h3 {
     margin-bottom: 10px;
     font-family: "MinFantastiskeFont";
@@ -602,10 +606,6 @@ img {
 
   .tekst h2 {
     text-align: center;
-  }
-
-  .sprog {
-    text-align: left;
   }
 
   /*FOOTER*/
