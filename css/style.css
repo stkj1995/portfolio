@@ -93,10 +93,11 @@ img {
     font-size: 22px;
     text-align: left;
     padding: 3px;
-    margin: 60px;
+    margin-top: 60px;
+    margin-right: 60px;
+    margin-left: 50px;
     padding-top: 40px;
     color: #103757;
-    margin-left: 50px;
   }
 
   .fctabutton {
@@ -110,7 +111,7 @@ img {
 
   .fctabutton2 {
     font-family: "MinFantastiskeFont";
-    font-size: 15px;
+    font-size: 20px;
     text-decoration: underline;
     color: white;
     text-align: center;
