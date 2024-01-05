@@ -83,20 +83,20 @@ img {
     text-align: center;
     padding: 0px;
     margin: 20px;
-    padding-top: 20px;
+    padding-top: 0px;
     color: #ffffff;
   }
 
   .fintroduktion p {
-    margin-bottom: 30px;
+    margin-bottom: 0px;
     font-family: "crimson text";
-    font-size: 22px;
+    font-size: 0px;
     text-align: left;
     padding: 3px;
-    margin-top: 60px;
-    margin-right: 60px;
-    margin-left: 50px;
-    padding-top: 40px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
     color: #103757;
   }
 
@@ -128,8 +128,8 @@ img {
   .fctaborder {
     border: 5px solid white;
     padding: 0px;
-    margin-bottom: 95px;
-    margin-top: 40px;
+    margin-bottom: 0px;
+    margin-top: 0px;
   }
 
   .fctaborder2 {
@@ -174,43 +174,43 @@ img {
   }
 
   .fvalues .studie2 {
-    width: 150px;
+    width: 0px;
     height: auto;
     object-fit: cover;
     display: block;
     margin: 0 auto;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
 
   .fvalues .studie3 {
-    width: 130px;
+    width: 0px;
     height: auto;
     object-fit: cover;
     display: block;
     margin: 0 auto;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
 
   .fvalues .studie4 {
-    width: 80px;
+    width: 0px;
     height: auto;
     object-fit: cover;
     display: block;
     margin: 0 auto;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
 
   .fvalues .studie5 {
-    width: 430px;
+    width: 0px;
     height: auto;
     object-fit: cover;
     display: block;
     margin: 0 auto;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
 
   .fvalues .proces {
@@ -257,13 +257,12 @@ img {
 
   .fcta p {
     font-family: "crimson text";
-    font-size: 20px;
-    max-width: 500px;
+    font-size: 0px;
     max-width: 500px;
     display: block;
-    margin: 40px;
+    margin: 0px;
     margin-bottom: 0px;
-    margin-top: 50px;
+    margin-top: 0px;
     text-align: left;
     padding-left: 0px;
     padding-right: 0px;
@@ -475,7 +474,7 @@ img {
   .fctaborder {
     border: 5px solid white;
     padding: 0px;
-    margin-bottom: 95px;
+    margin-bottom: 70px;
     margin-top: 40px;
   }
 
