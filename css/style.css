@@ -125,6 +125,18 @@ img {
     text-decoration: underline;
   }
 
+  .fctaborder {
+    border: 5px solid white;
+    padding: 0px;
+    margin-bottom: 95px;
+    margin-top: 40px;
+  }
+
+  .fctaborder2 {
+    border: 3px solid #1e82a6;
+    margin: 30px;
+  }
+
   .fvalues {
     padding-top: 0px;
     padding-bottom: 0px;
