@@ -137,13 +137,13 @@ img {
   }
 
   .cross .bar:nth-child(1) {
-    rotate: 48deg;
+    transform: rotate(48deg);
   }
   .cross .bar:nth-child(2) {
     opacity: 0;
   }
   .cross .bar:nth-child(3) {
-    rotate: -48deg;
+    transform: rotate(-48deg);
   }
 
   .navheader {
