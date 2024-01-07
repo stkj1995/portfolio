@@ -444,16 +444,14 @@ img {
   }
 
   .fintroduktion p {
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     font-family: "crimson text";
     font-size: 25px;
-    text-align: left;
-    padding: 3px;
-    margin: 20px;
-    padding-top: 40px;
-    color: #103757;
+    text-align: justify;
     padding-left: 350px;
     padding-right: 350px;
+    padding-top: 30px;
+    color: #103757;
   }
 
   .fctabutton {
