@@ -132,6 +132,10 @@ img {
     margin-top: 0px;
   }
 
+  .fctaborder h2 {
+    text-align: center;
+  }
+
   .fctaborder2 {
     border: 3px solid #1e82a6;
     margin: 30px;
@@ -237,10 +241,10 @@ img {
   .kompetencer,
   .profil {
     background-color: #fff;
-    padding: 20px;
-    margin: 20px;
+    padding: 5px;
+    margin: 5px;
     text-align: left;
-    font-size: 11px;
+    font-size: 15px;
   }
 
   .tekst h2 {
