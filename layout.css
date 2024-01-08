@@ -235,11 +235,11 @@ img {
     text-align: center;
   }
 
-  .fhero img {
+  /* .fhero img {
     height: 600px;
     object-fit: cover;
     width: 500px;
-  }
+  } */
 
   /*SCROLL*/
 
@@ -353,7 +353,7 @@ img {
     text-decoration: none;
     font-family: "MinFantastiskeFont";
     color: white;
-    font-size: 16px;
+    font-size: 15px;
     align-items: center;
     padding-top: 10px;
     padding-right: 15px;
@@ -383,11 +383,11 @@ img {
     grid-area: 1 / 1;
   }
 
-  .fhero img {
+  /* .fhero img {
     height: 490px;
     object-fit: cover;
     width: 500px;
-  }
+  } */
 
   .fhero h1 {
     font-family: "MinFantastiskeFont";
