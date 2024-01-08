@@ -320,7 +320,6 @@ img {
     padding-top: 32px;
     background-color: white;
     border-radius: 0%;
-    aspect-ratio: 16/9;
     margin-right: 170px;
   }
 
@@ -671,7 +670,6 @@ img {
     padding-top: 30px;
     background-color: white;
     border-radius: 0%;
-    aspect-ratio: 16/9;
   }
 }
 
