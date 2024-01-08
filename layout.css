@@ -16,7 +16,7 @@ img {
 @media (max-width: 800px) {
   @font-face {
     font-family: "MinFantastiskeFont";
-    src: url("/fonts/Silkscreen-Regular.woff2") format("woff2");
+    src: url("fonts/Silkscreen-Regular.woff2") format("woff2");
   }
 
   body {
@@ -65,7 +65,7 @@ img {
   .burger-divider div p {
     cursor: pointer;
   }
-  
+
   header {
     position: relative;
     width: 100%;
@@ -268,7 +268,7 @@ img {
 @media (min-width: 800px) {
   @font-face {
     font-family: "MinFantastiskeFont";
-    src: url("/fonts/Silkscreen-Regular.woff2") format("woff2");
+    src: url("fonts/Silkscreen-Regular.woff2") format("woff2");
   }
 
   body {
