@@ -235,12 +235,6 @@ img {
     text-align: center;
   }
 
-  /* .fhero img {
-    height: 600px;
-    object-fit: cover;
-    width: 500px;
-  } */
-
   /*SCROLL*/
 
   #scrollToTopBtn {
@@ -382,12 +376,6 @@ img {
   h1 {
     grid-area: 1 / 1;
   }
-
-  /* .fhero img {
-    height: 490px;
-    object-fit: cover;
-    width: 500px;
-  } */
 
   .fhero h1 {
     font-family: "MinFantastiskeFont";
