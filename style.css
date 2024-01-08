@@ -41,11 +41,11 @@ img {
     margin: 50px;
   }
 
-  .fhero img {
+  /* .fhero img {
     height: 210px;
     object-fit: cover;
     width: 100%;
-  }
+  } */
 
   .fcta {
     background-color: #9ddef3;
