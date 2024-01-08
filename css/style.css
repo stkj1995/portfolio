@@ -282,6 +282,7 @@ img {
     padding-top: 5px;
     padding-bottom: 0px;
     font-family: "MinFantastiskeFont";
+    font-size: 0px;
   }
 
   .ffootertop {
@@ -314,13 +315,9 @@ img {
     display: flex;
     gap: 24px;
     justify-content: center;
-    margin-top: 77px;
-    margin-bottom: 70px;
-    margin-left: 0px;
     padding-top: 32px;
     background-color: white;
-    border-radius: 0%;
-    margin-right: 170px;
+    margin-right: 350px;
   }
 
   .ffootersome img {
