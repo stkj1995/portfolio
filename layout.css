@@ -5,6 +5,7 @@
 body {
   margin: 0;
   background-color: #9ddef3;
+  overflow-x: hidden;
 }
 
 img {
@@ -21,6 +22,7 @@ img {
 
   body {
     font-family: "MinFantastiskeFont", sans-serif;
+    overflow-x: hidden;
   }
 
   /*HEADER*/
