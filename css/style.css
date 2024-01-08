@@ -315,7 +315,7 @@ img {
     display: flex;
     gap: 24px;
     justify-content: center;
-    padding-top: 32px;
+    padding-top: 20px;
     background-color: white;
     margin-right: 350px;
   }
@@ -696,7 +696,7 @@ img {
   display: flex;
   justify-content: center;
   margin-left: 380px;
-  margin-right: 260px;
+  margin-right: 250px;
   gap: 300px;
 }
 
