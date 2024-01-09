@@ -281,18 +281,15 @@ img {
     color: white;
     text-align: center;
     padding-top: 5px;
-    padding-bottom: 0px;
-    font-family: "MinFantastiskeFont";
-    font-size: 0px;
   }
 
   .ffootertop {
     font-family: "MinFantastiskeFont";
-    font-size: 30px;
+    font-size: 0px;
   }
 
   .ffootermenu {
-    line-height: 30px;
+    line-height: 0px;
   }
 
   .flogo img {
@@ -303,8 +300,6 @@ img {
 
   footer a {
     text-decoration: none;
-    font-family: "MinFantastiskeFont";
-    font-size: 18px;
     color: white;
   }
 
@@ -315,12 +310,13 @@ img {
 
   .ffootersome {
     display: flex;
-    gap: 24px;
+    gap: 20px;
     justify-content: center;
-    padding-top: 20px;
+    padding-top: 0px;
     background-color: white;
-    margin-right: 350px;
+    margin-right: 70px;
     white-space: nowrap;
+    margin-bottom: 150px;
   }
 
   .ffootersome img {
@@ -329,7 +325,7 @@ img {
   }
 
   .ffootercopy {
-    font-size: 10px;
+    font-size: 0px;
     margin-top: 30px;
   }
 
@@ -667,10 +663,9 @@ img {
     display: flex;
     gap: 40px;
     justify-content: center;
-    margin-top: 110px;
+    margin-top: 150px;
     margin-bottom: 80px;
-    margin-left: 0px;
-    padding-top: 30px;
+    padding-top: 10px;
     background-color: white;
     border-radius: 0%;
     white-space: nowrap;
@@ -702,7 +697,7 @@ img {
 .ffootergrid3 {
   display: flex;
   justify-content: center;
-  margin-left: 380px;
+  margin-left: 350px;
   margin-right: 250px;
   gap: 300px;
 }

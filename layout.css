@@ -203,7 +203,7 @@ img {
     gap: 30px;
     justify-content: center;
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
     white-space: nowrap;
   }
 
