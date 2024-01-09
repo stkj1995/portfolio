@@ -125,6 +125,7 @@ img {
     margin: 0 auto;
     margin-top: 10px;
     margin-bottom: 10px;
+    white-space: nowrap;
   }
 
   .burger-menu {
@@ -328,6 +329,7 @@ img {
     width: 180px;
     object-fit: cover;
     padding-left: 70px;
+    white-space: nowrap;
   }
 
   .menu {
