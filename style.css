@@ -412,7 +412,7 @@ img {
   .fcta p {
     margin-bottom: 50px;
     font-family: "crimson text";
-    font-size: 25px;
+    font-size: 22px;
     text-align: justify;
     padding-left: 350px;
     padding-right: 350px;
@@ -445,7 +445,7 @@ img {
   .fintroduktion p {
     margin-bottom: 50px;
     font-family: "crimson text";
-    font-size: 25px;
+    font-size: 22px;
     text-align: justify;
     padding-left: 350px;
     padding-right: 350px;
@@ -454,7 +454,7 @@ img {
   }
 
   .fctabutton {
-    font-size: 60px;
+    font-size: 50px;
     text-decoration: underline;
     color: white;
     text-align: center;
@@ -509,6 +509,7 @@ img {
   .fvalues p {
     font-family: crimson text;
     font-size: 20px;
+    margin: 30px;
   }
 
   .fvalues .fcta h3 {
