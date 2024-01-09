@@ -314,13 +314,12 @@ img {
     justify-content: center;
     padding-top: 0px;
     background-color: white;
-    margin-right: 250px;
     white-space: nowrap;
     margin-bottom: 50px;
   }
 
   .ffootersome img {
-    width: 50px;
+    width: 30px;
     object-fit: cover;
   }
 
@@ -648,6 +647,13 @@ img {
   .ffootermenu {
     line-height: 50px;
     padding-top: 10px;
+    margin-left: 150px;
+  }
+
+  .ffooterinfo {
+    padding-bottom: 20px;
+    padding-top: 0px;
+    margin-right: 110px;
   }
 
   .flogo img {
@@ -672,11 +678,11 @@ img {
     gap: 30px;
     justify-content: center;
     margin-top: 150px;
-    margin-bottom: 80px;
-    padding-top: 10px;
+    margin-bottom: 125px;
     background-color: white;
     border-radius: 0%;
     white-space: nowrap;
+    margin-left: 150px;
   }
 }
 
@@ -686,27 +692,22 @@ img {
 }
 
 .finsta img {
-  padding-top: 0px;
-  width: 80px;
+  width: 65px;
 }
 
 .ffacebook img {
-  padding-top: 9px;
-  padding-top: 10px;
-  margin-left: 13px;
+  padding-top: 8px;
+  margin-left: 5px;
+  width: 50px;
 }
 
 .flinkedin img {
-  width: 75px;
-  object-fit: cover;
   padding-top: 2px;
 }
 
 .ffootergrid3 {
   display: flex;
   justify-content: center;
-  margin-left: 350px;
-  margin-right: 250px;
   gap: 300px;
 }
 
