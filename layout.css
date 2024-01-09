@@ -428,16 +428,6 @@ img {
     white-space: nowrap;
   }
 
-  .ffootersome {
-    display: flex;
-    gap: 30px;
-    justify-content: center;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 30px;
-    white-space: nowrap;
-  }
-
   .ffootersome img {
     width: 60px;
     object-fit: cover;
