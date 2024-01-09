@@ -42,7 +42,7 @@ img {
   }
 
   .fhero img {
-    height: 210px;
+    height: 215px;
     object-fit: cover;
     width: 100%;
   }
@@ -320,6 +320,7 @@ img {
     padding-top: 20px;
     background-color: white;
     margin-right: 350px;
+    white-space: nowrap;
   }
 
   .ffootersome img {
@@ -670,6 +671,7 @@ img {
     padding-top: 30px;
     background-color: white;
     border-radius: 0%;
+    white-space: nowrap;
   }
 }
 
@@ -704,7 +706,7 @@ img {
 }
 
 .ffootercopy {
-  font-size: 20px;
+  font-size: 15px;
   margin-top: 30px;
   padding-bottom: 10px;
 }
