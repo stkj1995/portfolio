@@ -310,6 +310,7 @@ img {
 
   footer ul {
     list-style: none;
+    white-space: nowrap;
   }
 
   .ffootersome {
@@ -656,6 +657,7 @@ img {
 
   footer ul {
     list-style: none;
+    white-space: nowrap;
   }
 
   .ffootersome {
