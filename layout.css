@@ -426,7 +426,6 @@ img {
   footer ul {
     list-style: none;
     white-space: nowrap;
-    white-space: nowrap;
   }
 
   .ffootersome {
@@ -446,7 +445,7 @@ img {
 
   .ffootergrid3 {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     margin-left: 50px;
     gap: 180px;
   }
