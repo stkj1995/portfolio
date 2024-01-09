@@ -339,6 +339,7 @@ img {
     justify-content: center;
     gap: 100px;
     font-size: 0px;
+    white-space: nowrap;
   }
 
   .link:hover {

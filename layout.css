@@ -446,7 +446,7 @@ img {
   .ffootergrid3 {
     display: flex;
     justify-content: center;
-    margin-left: 50px;
+    margin-left: 0px;
     gap: 180px;
   }
 
