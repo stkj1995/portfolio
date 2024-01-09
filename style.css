@@ -515,9 +515,10 @@ img {
     margin: 50px;
     margin-bottom: 50px;
     font-family: "MinFantastiskeFont";
-    font-size: 55px;
+    font-size: 50px;
     background-color: #9ddef3;
     text-align: center;
+    white-space: nowrap;
   }
 
   .fvalues img {
