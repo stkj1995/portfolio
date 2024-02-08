@@ -7,6 +7,7 @@
 body {
   margin: 0;
   background-color: #9ddef3;
+  overflow-x: hidden;
 }
 
 img {
@@ -33,7 +34,7 @@ img {
 
   .fhero h1 {
     font-family: "MinFantastiskeFont";
-    font-size: 35px;
+    font-size: 30px;
     color: white;
     letter-spacing: 4px;
     text-align: center;
@@ -41,7 +42,7 @@ img {
   }
 
   .fhero img {
-    height: 210px;
+    height: 215px;
     object-fit: cover;
     width: 100%;
   }
@@ -144,11 +145,12 @@ img {
   .fvalues {
     padding-top: 0px;
     padding-bottom: 0px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 20px;
+    padding-right: 60px;
     text-align: center;
     color: #103757;
     margin-bottom: 10px;
+    overflow: hidden;
   }
 
   .fvalues p {
@@ -225,6 +227,7 @@ img {
     margin: 0 auto;
     margin-top: 30px;
     margin-bottom: 30px;
+    overflow: hidden;
   }
 
   .ffacade .cv {
@@ -279,19 +282,16 @@ img {
     background-color: #103757;
     color: white;
     text-align: center;
-    padding-top: 5px;
-    padding-bottom: 0px;
-    font-family: "MinFantastiskeFont";
-    font-size: 0px;
+    padding-top: 0px;
   }
 
   .ffootertop {
     font-family: "MinFantastiskeFont";
-    font-size: 30px;
+    font-size: 0px;
   }
 
   .ffootermenu {
-    line-height: 30px;
+    line-height: 0px;
   }
 
   .flogo img {
@@ -302,37 +302,45 @@ img {
 
   footer a {
     text-decoration: none;
-    font-family: "MinFantastiskeFont";
-    font-size: 18px;
     color: white;
   }
 
   footer ul {
     list-style: none;
+    white-space: nowrap;
   }
 
   .ffootersome {
     display: flex;
-    gap: 24px;
+    gap: 20px;
     justify-content: center;
-    padding-top: 20px;
+    padding-top: 0px;
     background-color: white;
-    margin-right: 350px;
+    white-space: nowrap;
+    margin-bottom: 50px;
   }
 
   .ffootersome img {
-    width: 50px;
+    width: 30px;
     object-fit: cover;
   }
 
   .ffootercopy {
-    font-size: 10px;
+    font-size: 0px;
     margin-top: 30px;
   }
 
   .ffooterinfo {
     padding-bottom: 20px;
     padding-top: 0px;
+  }
+
+  .ffootergrid3 {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    font-size: 0px;
+    white-space: nowrap;
   }
 
   .link:hover {
@@ -382,13 +390,13 @@ img {
 
   .fhero img {
     height: 450px;
-    width: 1640px;
+    width: 100%;
     object-fit: cover;
   }
 
   .fhero h1 {
     font-family: "MinFantastiskeFont";
-    font-size: 100px;
+    font-size: 95px;
     color: white;
     letter-spacing: 6px;
     padding-right: 0px;
@@ -409,7 +417,7 @@ img {
   .fcta p {
     margin-bottom: 50px;
     font-family: "crimson text";
-    font-size: 25px;
+    font-size: 22px;
     text-align: justify;
     padding-left: 350px;
     padding-right: 350px;
@@ -442,7 +450,7 @@ img {
   .fintroduktion p {
     margin-bottom: 50px;
     font-family: "crimson text";
-    font-size: 25px;
+    font-size: 22px;
     text-align: justify;
     padding-left: 350px;
     padding-right: 350px;
@@ -451,7 +459,7 @@ img {
   }
 
   .fctabutton {
-    font-size: 60px;
+    font-size: 50px;
     text-decoration: underline;
     color: white;
     text-align: center;
@@ -505,16 +513,18 @@ img {
 
   .fvalues p {
     font-family: crimson text;
-    font-size: 22px;
+    font-size: 20px;
+    margin: 30px;
   }
 
   .fvalues .fcta h3 {
     margin: 50px;
     margin-bottom: 50px;
     font-family: "MinFantastiskeFont";
-    font-size: 55px;
+    font-size: 50px;
     background-color: #9ddef3;
     text-align: center;
+    white-space: nowrap;
   }
 
   .fvalues img {
@@ -639,6 +649,13 @@ img {
   .ffootermenu {
     line-height: 50px;
     padding-top: 10px;
+    margin-left: 150px;
+  }
+
+  .ffooterinfo {
+    padding-bottom: 20px;
+    padding-top: 0px;
+    margin-right: 110px;
   }
 
   .flogo img {
@@ -655,18 +672,19 @@ img {
 
   footer ul {
     list-style: none;
+    white-space: nowrap;
   }
 
   .ffootersome {
     display: flex;
-    gap: 40px;
+    gap: 30px;
     justify-content: center;
-    margin-top: 110px;
-    margin-bottom: 80px;
-    margin-left: 0px;
-    padding-top: 30px;
+    margin-top: 150px;
+    margin-bottom: 125px;
     background-color: white;
     border-radius: 0%;
+    white-space: nowrap;
+    margin-left: 150px;
   }
 }
 
@@ -676,33 +694,27 @@ img {
 }
 
 .finsta img {
-  padding-top: 0px;
-  width: 80px;
+  width: 65px;
 }
 
 .ffacebook img {
-  padding-top: 9px;
-  padding-top: 10px;
-  margin-left: 13px;
+  padding-top: 8px;
+  margin-left: 5px;
+  width: 50px;
 }
 
 .flinkedin img {
-  width: 75px;
-  object-fit: cover;
   padding-top: 2px;
 }
 
 .ffootergrid3 {
   display: flex;
   justify-content: center;
-  margin-left: 380px;
-  margin-right: 250px;
   gap: 300px;
 }
 
 .ffootercopy {
-  font-size: 20px;
-  margin-top: 30px;
+  font-size: 15px;
   padding-bottom: 10px;
 }
 

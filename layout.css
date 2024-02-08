@@ -5,6 +5,7 @@
 body {
   margin: 0;
   background-color: #9ddef3;
+  overflow-x: hidden;
 }
 
 img {
@@ -16,11 +17,12 @@ img {
 @media (max-width: 800px) {
   @font-face {
     font-family: "MinFantastiskeFont";
-    src: url("/fonts/Silkscreen-Regular.woff2") format("woff2");
+    src: url("fonts/Silkscreen-Regular.woff2") format("woff2");
   }
 
   body {
     font-family: "MinFantastiskeFont", sans-serif;
+    overflow-x: hidden;
   }
 
   /*HEADER*/
@@ -36,7 +38,7 @@ img {
     left: -1000px;
     z-index: 90;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 50px;
     padding-right: 30px;
   }
 
@@ -44,12 +46,14 @@ img {
     list-style-type: none;
     margin-bottom: 20px;
     color: white;
+    white-space: nowrap;
   }
 
   .burger-nav ul li a {
     text-decoration: none;
     color: white;
-    font-size: 25px;
+    font-size: 22px;
+    white-space: nowrap;
   }
 
   .burger-divider {
@@ -65,7 +69,7 @@ img {
   .burger-divider div p {
     cursor: pointer;
   }
-  
+
   header {
     position: relative;
     width: 100%;
@@ -121,6 +125,7 @@ img {
     margin: 0 auto;
     margin-top: 10px;
     margin-bottom: 10px;
+    white-space: nowrap;
   }
 
   .burger-menu {
@@ -184,12 +189,13 @@ img {
   footer a {
     text-decoration: none;
     font-family: "crimson text";
-    font-size: 18px;
+    font-size: 0px;
     color: white;
   }
 
   footer ul {
     list-style: none;
+    white-space: nowrap;
   }
 
   .ffootersome {
@@ -197,7 +203,8 @@ img {
     gap: 30px;
     justify-content: center;
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
+    white-space: nowrap;
   }
 
   .ffootersome img {
@@ -233,12 +240,6 @@ img {
     text-align: center;
   }
 
-  .fhero img {
-    height: 600px;
-    object-fit: cover;
-    width: 500px;
-  }
-
   /*SCROLL*/
 
   #scrollToTopBtn {
@@ -268,7 +269,7 @@ img {
 @media (min-width: 800px) {
   @font-face {
     font-family: "MinFantastiskeFont";
-    src: url("/fonts/Silkscreen-Regular.woff2") format("woff2");
+    src: url("fonts/Silkscreen-Regular.woff2") format("woff2");
   }
 
   body {
@@ -328,6 +329,7 @@ img {
     width: 180px;
     object-fit: cover;
     padding-left: 70px;
+    white-space: nowrap;
   }
 
   .menu {
@@ -342,16 +344,17 @@ img {
     display: flex;
     flex-direction: row;
     list-style: none;
-    gap: 30px;
+    gap: 20px;
     text-decoration: none;
     justify-content: flex-end;
+    white-space: nowrap;
   }
 
   header li a {
     text-decoration: none;
     font-family: "MinFantastiskeFont";
     color: white;
-    font-size: 16px;
+    font-size: 15px;
     align-items: center;
     padding-top: 10px;
     padding-right: 15px;
@@ -379,12 +382,6 @@ img {
   img,
   h1 {
     grid-area: 1 / 1;
-  }
-
-  .fhero img {
-    height: 490px;
-    object-fit: cover;
-    width: 500px;
   }
 
   .fhero h1 {
@@ -428,15 +425,7 @@ img {
 
   footer ul {
     list-style: none;
-  }
-
-  .ffootersome {
-    display: flex;
-    gap: 30px;
-    justify-content: center;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 30px;
+    white-space: nowrap;
   }
 
   .ffootersome img {
@@ -446,8 +435,8 @@ img {
 
   .ffootergrid3 {
     display: flex;
-    justify-content: left;
-    margin-left: 50px;
+    justify-content: center;
+    margin-left: 0px;
     gap: 180px;
   }
 
